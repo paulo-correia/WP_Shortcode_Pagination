@@ -1,4 +1,4 @@
-##Shortcode para WordPress que faz paginação
+<h2>Shortcode para WordPress que faz paginação</h2>
 
 Para instalar entre no diretório onde está instalado o seu WordPress, localize a pasta wp-content e entre nela, dentro dela localize a pasta themes, dentro desta pasta estarão todos os temas que instalou, mas para instalar este shortcode tem que verificar no Painel/"Dashboard" do WordPress qual é o tema que está ativo.
 
